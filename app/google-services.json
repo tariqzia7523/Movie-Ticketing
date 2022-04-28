@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "919825615050",
+    "firebase_url": "https://parkingproject-319d8-default-rtdb.firebaseio.com",
+    "project_id": "parkingproject-319d8",
+    "storage_bucket": "parkingproject-319d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919825615050:android:c81e6b3df4e8398c330c33",
+        "android_client_info": {
+          "package_name": "com.movie.tickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919825615050-au2avh13c0r96rqkhr8l4lbjmuq09171.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR0YaYvvNQ_xxbWjMH4vd31m9kXLhKpq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919825615050-au2avh13c0r96rqkhr8l4lbjmuq09171.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919825615050:android:a41ec85859635d99330c33",
+        "android_client_info": {
+          "package_name": "com.parking.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919825615050-au2avh13c0r96rqkhr8l4lbjmuq09171.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR0YaYvvNQ_xxbWjMH4vd31m9kXLhKpq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919825615050-au2avh13c0r96rqkhr8l4lbjmuq09171.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

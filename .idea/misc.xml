@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Tariq/Downloads/Movie Ticketing/ParkingProject/app/src/main/res/layout/activity_add_movies.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Tariq/Downloads/Movie Ticketing/ParkingProject/app/src/main/res/layout/activity_add_parking_slots.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Tariq/Downloads/Movie Ticketing/ParkingProject/app/src/main/res/layout/activity_home_screen.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Tariq/Downloads/Movie Ticketing/ParkingProject/app/src/main/res/layout/activity_mivie_list.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/Tariq/Downloads/Movie Ticketing/ParkingProject/app/src/main/res/layout/add_parking_pop_up.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Tariq/Downloads/Movie Ticketing/ParkingProject/app/src/main/res/layout/parking_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Tariq/Downloads/Movie Ticketing/app/src/main/res/layout/activity_add_seats_slots.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Tariq/Downloads/Movie Ticketing/app/src/main/res/layout/activity_home_screen.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Tariq/Downloads/Movie Ticketing/app/src/main/res/layout/add_seat_pop_up.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
